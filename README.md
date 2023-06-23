@@ -1,6 +1,6 @@
 Ben's Schnuppern Tag bei PMDA
 ===
-Jitao David Zhang
+Jitao David Zhang and Ben Bieniossek
 
 
 ## Inhalt
